@@ -1,7 +1,7 @@
 # Data-Driven Strategies for Optimizing E-Commerce Operations in Brazil
 This project focuses on an in-depth analysis of the Brazilian e-commerce market using the "Olist Brazilian E-Commerce" dataset, which consists of nine comprehensive tables. The primary aim is to uncover actionable insights that can guide strategic business decisions in areas such as user growth, warehouse location optimization, product sales trends, and delivery efficiency.
 
-**The Key Objectives of The Project Include:**
+**The Key Objectives of The Project Include,**
 - *Customer Growth Analysis:* Calculate the total number of unique customers listed each year and determine the annual growth rate, showcasing trends in user acquisition over time.
 - *Optimal Warehouse Location:* Identify the state with the highest order density, considering not just the volume of orders but also their distribution relative to population and logistics. This will help recommend an ideal location for a new warehouse to enhance operational efficiency.
 - *Product Sales Performance:* Determine the second highest-selling product and the second lowest-selling product category in both English and Portuguese. This will provide insight into product popularity and help in inventory management and marketing strategies.
